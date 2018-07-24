@@ -1,0 +1,8 @@
+# PygameZ1
+# PYGAMEZ AREZ AMEZOME
+# 03-21-2016
+__author__ = "Alexander Tsuetaki"
+
+from pygame import *
+pygame.init()
+print 'test'

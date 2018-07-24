@@ -1,0 +1,64 @@
+<!-- Alexander Tsuetaki -->
+<data>
+	<question name="1">
+		<say>How are you today?</say>
+			<responses>happy, sad, sleepy, excited, stressed</responses>
+			<option name="0">I am glad to hear you are happy.</option>
+			<option name="1">I am sorry to hear you are sad.</option>
+			<option name="2">Did you stay up too late last night?</option>
+			<option name="3">Wow, something awesome must be going on in your life.</option>
+			<option name="4">I have heard that Durham Academy can be a stressful place</option>
+			<option name="5">That's interesting to know.</option>
+	</question>
+	<question name="2">
+		<say>What is your favorite sport?</say>
+			<responses>basketball, baseball, soccer, football, volleyball, sleecountry, lacrosse, softball, swimming</responses>
+			<option name="0">Me too! I LOVE Steph Curry.</option>
+			<option name="1">I have always been fascinated by the statistics of baseball. It's not for everyone though.</option>
+			<option name="2">Me too. I hope that you were able to watch the US win the Women's World Cup this past summer.</option>
+			<option name="3">I am excited about the Super Bowl coming up next week!</option>
+			<option name="4">I could never be a good volleyball player. As a laptop, I am too short!</option>
+			<option name="5">Wow you must be very driven. Anytime I have tried running, it has always been too painful for me to keep it up.</option>
+			<option name="6">I enjoy lacrosse and have been to see many games at Duke and UNC. We have such great local college lacrosse teams.</option>
+			<option name="7">Did you know that the US Women's Softball team once had a 185-game winning streak? Ironically, a college pitcher threw a no-hitter to beat them. She had tried out for the team and did not earn a roster spot.</option>
+			<option name="8">Cool. I am looking forward to watching Michael Phelps win more gold medals at the next summer olympics.</option>
+			<option name="9">I have never followed that sport much. It sounds interesting.</option>
+	</question>
+	<question name="3">
+		<say>Who is your favorite economic system </say>
+			<responses>capitalism, socialism, mixed, communism</responses>
+			<option name="0">The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.</option>
+			<option name="1">The left is back, and it's the only path we have to get out of the spot to which the right has sunken us. Socialism builds and capitalism destroys.</option>
+			<option name="2">There is no evidence that more regulation makes things better. The most highly regulated industry in America is commercial banking, and that didn't save those institutions from making terrible decisions.</option>
+			<option name="3">Communism is not love. Communism is a hammer which we use to crush the enemy.</option>
+			<option name="4">Not sure what to say I don't know how that system will work</option>
+	</question>
+	<question name="4">
+		<say>Who do you support for the next presidential election</say>
+			<responses>clinton, sander, bush, carson, christie, cruz, fiorina, paul, kasich, rubio, santorum, trump</responses>
+			<option name="0">Hillary Clinton polls 32% in New Hampshire</option>
+			<option name="1">Bernie Sander polls 61% in New Hampshire</option>
+			<option name="2">Jeb Bush polls 9% in New Hampshire</option>
+			<option name="3">Ben Carson polls 3% in New Hampshire</option>
+			<option name="4">Chris Christie polls 6% in New Hampshire</option>
+			<option name="5">Ted Cruz polls 14% in New Hampshire</option>
+			<option name="6">Carly Fiorina polls 3% in New Hampshire</option>
+			<option name="7">Rand Paul polls 3% in New Hampshire</option>
+			<option name="8">John Kasich polls 7% in New Hampshire</option>
+			<option name="9">Marco Rubio polls 12% in New Hampshire</option>
+			<option name="10">Rick Santorum polls 1% in New Hampshire</option>
+			<option name="11">Donald Trump polls 38% in New Hampshire</option>
+			<optoin name="12">Sorry I don't know who that candidate is</optoin>
+	</question>
+	<question name="5">
+		<say>You are in a room with Adolf Hitler, Joseph Stalin, Bashar Al Asad and Donald Trump. You have 2 bullets in a gun who do you kill</say>
+			<responses>hitler, stalin, asad, trump, self, door</responses>
+			<option name="0">Down with the fascists</option>
+			<option name="1">Down with the tyrant</option>
+			<option name="2">Down with the Dictator</option>
+			<option name="3">Down with the only one you can stop now</option>
+			<option name="4">I couldn't stand it either</option>
+			<option name="5">You really want to let EVIL rain upon the world</option>
+			<option name="6">THATS NOT AN OPTION</option>
+	</question>
+</data>
